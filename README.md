@@ -1,8 +1,8 @@
 # GALEX Documentation
 
 1. About Galex
-  1. Hardware
-  2. In Flight Operation
+  1. [Hardware](./about/hardware/hardware.md "Hardware")
+  2. [In Flight Operation](./about/operation/operation.md "In Flight Operations")
 
 2. Pipeline
   1. Hardware Calibrations
@@ -21,7 +21,7 @@
   1. MAST Discovery Portal
   2. MAST CasJobs
   3. Direct Downloads
-  4. Older / Unsupported Web
+  4. Older / Unsupported
 
 6. Related Sites
   1. High Level Science Products
