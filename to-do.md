@@ -23,3 +23,7 @@ Medium-Term (Dec. 31st 2017)
 2. Version 1.0 of the Level 1 documentation page. (Scott)
 
 3. Implement product roadmap at MAST. (Scott)
+
+4. See if MAST can get a copy of full set of DAT tapes from GALEX - Karl Forster, CalTech. (Scott)
+
+5. CAUSE/scan-mode release. (Scott)
