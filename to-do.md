@@ -27,3 +27,5 @@ Medium-Term (Dec. 31st 2017)
 4. See if MAST can get a copy of full set of DAT tapes from GALEX - Karl Forster, CalTech. (Scott)
 
 5. CAUSE/scan-mode release. (Scott)
+
+6.  Email Karl Forster about complete list of GI programs, and perhaps Abstract text. (Scott)
